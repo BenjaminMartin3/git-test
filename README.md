@@ -6,3 +6,5 @@ Hello there.
 :)
 
 Hi Internet!
+
+New Message from Visual Studio!
