@@ -20,3 +20,5 @@ It sure is.
 How long is this going to go on for?
 
 Until it all makes sense I guess.
+
+I'm starting to get this on lock!
